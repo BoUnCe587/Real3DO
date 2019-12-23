@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="allow">Allow the user access</string>
+    <string name="app_about">simple 3DO emulator based on</string>
+    <string name="app_name">Real3DOPlayer</string>
+    <string name="application_error">Application error: %1$s</string>
+    <string name="bios_error">BIOS not found.</string>
+    <string name="buy_button">Buy app</string>
+    <string name="check_license">Check license</string>
+    <string name="checking_license">Checking license...</string>
+    <string name="dont_allow">"Don't allow the user access"</string>
+    <string name="dump_label">Current ISOs and BIOS path:</string>
+    <string name="info_text">" \u0009"<b>Copyright (C) 2015-2016 Maxim L. Grishin</b>" 
+ \u0009E-mail: altmer@arts-union.ru 
+ 
+ \u0009"<b>IMPORTANT:</b>" Real3DOPlayer does not include any 3DO software, it must be provided by user.
+ "</string>
+    <string name="license_error_dialog_title">Application license check error</string>
+    <string name="quit_button">Exit</string>
+    <string name="retry_button">Retry</string>
+    <string name="sd_error">Select 3DO directory on SD card with BIOS and CD-images.</string>
+    <string name="store_label">Current save path:</string>
+    <string name="tp_text">" 
+ \u0009"<b>Real3DOPlayer</b>" incorporate third party components whose licenses require me to publish copies of the licensing language and/or copyright notices. In compliance with those requirements, here are copies of the licenses: 
+
+ \u0009"<b>TinyXML</b>"
+ \u0009This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
+ \u0009Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
+ \u00091. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.
+ \u00092. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
+ \u00093. This notice may not be removed or altered from any source distribution.
+ "</string>
+    <string name="unlicensed_dialog_body">This application is not licensed. Please purchase it from Android Market.</string>
+    <string name="unlicensed_dialog_retry_body">Unable to validate license. Check to see if a network connection is available.</string>
+    <string name="unlicensed_dialog_title">Application not licensed</string>
+</resources>
